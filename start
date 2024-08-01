@@ -1,0 +1,22 @@
+echo "# my-ar-quicklook" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/midastouchmediAR/my-ar-quicklook.git
+git push -u origin main
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AR Quick Look</title>
+</head>
+<body>
+    <h1>View in AR</h1>
+    <a href="https://yourusername.github.io/ar-quicklook-demo/yourmodel.usdz" rel="ar" data-quick-look-title="Your Product Name" data-quick-look-image="https://example.com/path/to/thumbnail.jpg">
+        <img src="https://example.com/path/to/thumbnail.jpg" alt="View in AR">
+    </a>
+</body>
+</html>
