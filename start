@@ -15,7 +15,7 @@ git push -u origin main
 </head>
 <body>
     <h1>View in AR</h1>
-    <a href="https://yourusername.github.io/ar-quicklook-demo/yourmodel.usdz" rel="ar" data-quick-look-title="Your Product Name" data-quick-look-image="https://example.com/path/to/thumbnail.jpg">
+    <a href=https://www.dropbox.com/scl/fi/je5oxkmlgjhx3mqe5vx6s/apartment_vr_3d_plan.usdz?rlkey=4hh6fnoz1oe6hwtoy8a98b0kj&st=46nbwhmr&dl=1 rel="ar" data-quick-look-title="Your Product Name" data-quick-look-image="https://example.com/path/to/thumbnail.jpg">
         <img src="https://example.com/path/to/thumbnail.jpg" alt="View in AR">
     </a>
 </body>
